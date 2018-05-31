@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Path Of Lowest Cost</string>
+    <string name="no_results">Out Grid</string>
+    <string name="select_a_test_select_data_set_message">Choose hardcode data from the sample grids:</string>
+    <string name="click_go_message">Find the lowest cost path of the chosen grid:</string>
+    <string name="go_button_title">Kata</string>
+    <string name="example_1_button_title">Grid 1</string>
+    <string name="example_2_button_title">Grid 2</string>
+    <string name="example_3_button_title">Grid 3</string>
+    <string name="example_4_button_title">Grid 4</string>
+    <string name="grid_contents_title">Chosen sample Grid</string>
+    <string name="grid_contents_default">Input Grid</string>
+    <string name="results_title"> </string>
+    <string name="enter_custom_data_set_message">Please enter integers below with a space between them.</string>
+    <string name="invalid_grid_message">Please enter a grid consisting of:\n\n-1 to 10 lines\n-5 to 100 numbers per line\n-Only numeric characters</string>
+</resources>
