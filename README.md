@@ -10,3 +10,5 @@ The application contains MainActivity in which it launches two fragments using t
 Future Improvemnt
 -----------------
 If I had more time, I was implement Mockito and robolectric for unit testing and Espresso for UI testing. Also, I will use MVVM Architectural pattern so that it will be east to have unit test. And, I will make the UI more attractive using Material Design. 
+
+
